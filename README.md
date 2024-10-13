@@ -10,4 +10,3 @@ Easy to use tool for cracking Solar Putty dat files on linux.
 
 # Reference
 This script was created by adding a modification to [VoidSec's SolarPuttyDecrypt tool](https://github.com/VoidSec/SolarPuttyDecrypt).
-https://github.com/VoidSec/SolarPuttyDecrypt
